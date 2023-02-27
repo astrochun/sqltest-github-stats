@@ -2141,7 +2141,7 @@ github-stats,2023-02-09,2,2
 github-stats,2023-02-10,2,2
 github-stats,2023-02-11,2,2
 github-stats,2023-02-12,2,2
-github-stats,2023-02-13,3,3
+github-stats,2023-02-13,1,1
 github-stats,2023-02-14,2,2
 github-stats,2023-02-15,2,2
 github-stats,2023-02-16,2,2
@@ -2154,6 +2154,7 @@ github-stats,2023-02-22,2,2
 github-stats,2023-02-23,2,2
 github-stats,2023-02-24,2,2
 github-stats,2023-02-25,2,2
+github-stats,2023-02-26,2,2
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2470,6 +2471,7 @@ manifests_with_flux,2023-01-27,1,1
 manifests_with_flux,2023-02-02,2,1
 manifests_with_flux,2023-02-17,2,2
 manifests_with_flux,2023-02-18,1,1
+manifests_with_flux,2023-02-26,1,1
 old_website_nightsky,2021-10-02,1,1
 old_website_nightsky,2022-03-04,2,2
 old_website_nightsky,2022-04-20,2,2
@@ -2867,7 +2869,7 @@ sqltest-github-stats,2023-02-09,3,2
 sqltest-github-stats,2023-02-10,5,3
 sqltest-github-stats,2023-02-11,3,2
 sqltest-github-stats,2023-02-12,3,2
-sqltest-github-stats,2023-02-13,2,2
+sqltest-github-stats,2023-02-13,1,1
 sqltest-github-stats,2023-02-14,3,2
 sqltest-github-stats,2023-02-15,3,2
 sqltest-github-stats,2023-02-16,5,3
@@ -2880,6 +2882,7 @@ sqltest-github-stats,2023-02-22,5,3
 sqltest-github-stats,2023-02-23,1,1
 sqltest-github-stats,2023-02-24,3,2
 sqltest-github-stats,2023-02-25,4,3
+sqltest-github-stats,2023-02-26,3,2
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -3607,7 +3610,7 @@ test-github-stats,2023-02-09,3,2
 test-github-stats,2023-02-10,1,1
 test-github-stats,2023-02-11,5,3
 test-github-stats,2023-02-12,3,2
-test-github-stats,2023-02-13,9,6
+test-github-stats,2023-02-13,4,3
 test-github-stats,2023-02-14,6,5
 test-github-stats,2023-02-15,6,4
 test-github-stats,2023-02-16,6,5
@@ -3620,6 +3623,7 @@ test-github-stats,2023-02-22,5,4
 test-github-stats,2023-02-23,5,4
 test-github-stats,2023-02-24,5,4
 test-github-stats,2023-02-25,7,4
+test-github-stats,2023-02-26,3,2
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
@@ -3959,3 +3963,4 @@ voxcharta-my-voting-record,2023-02-02,2,1
 voxcharta-my-voting-record,2023-02-08,1,1
 voxcharta-my-voting-record,2023-02-10,1,1
 voxcharta-my-voting-record,2023-02-25,2,2
+voxcharta-my-voting-record,2023-02-26,1,1
