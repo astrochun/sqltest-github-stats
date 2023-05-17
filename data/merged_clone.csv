@@ -2418,6 +2418,7 @@ github-stats,2023-05-12,4,3
 github-stats,2023-05-13,4,3
 github-stats,2023-05-14,4,3
 github-stats,2023-05-15,6,4
+github-stats,2023-05-16,4,3
 github-stats-pages,2021-02-10,1,1
 github-stats-pages,2021-02-20,3,1
 github-stats-pages,2021-02-21,22,5
@@ -2764,6 +2765,7 @@ manifests_with_flux,2023-02-26,1,1
 manifests_with_flux,2023-03-02,2,1
 manifests_with_flux,2023-05-02,1,1
 manifests_with_flux,2023-05-03,1,1
+manifests_with_flux,2023-05-16,1,1
 old_website_nightsky,2021-10-02,1,1
 old_website_nightsky,2022-03-04,2,2
 old_website_nightsky,2022-04-20,2,2
@@ -3272,6 +3274,7 @@ sqltest-github-stats,2023-05-12,3,2
 sqltest-github-stats,2023-05-13,4,3
 sqltest-github-stats,2023-05-14,3,2
 sqltest-github-stats,2023-05-15,4,3
+sqltest-github-stats,2023-05-16,4,3
 system_profiler,2021-10-21,6,1
 system_profiler,2021-11-09,1,1
 system_profiler,2021-11-28,1,1
@@ -4100,6 +4103,7 @@ test-github-stats,2023-05-12,3,2
 test-github-stats,2023-05-13,4,2
 test-github-stats,2023-05-14,4,3
 test-github-stats,2023-05-15,4,3
+test-github-stats,2023-05-16,4,3
 test-stats,2021-04-23,9,6
 test-stats,2021-04-24,2,2
 test-stats,2021-05-13,7,7
